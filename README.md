@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rupesh Patil
 - 👀 I’m interested in Learn a New skills,Softwares and applications.
-- 🌱 I’m currently learning Data Analysis and Basic Visualization tools.
+- 🌱 I’m a Data Analyst with IBM and Cisco certified.
 - 💞️ I’m looking to collaborate in any project Certification program.
 - 📫 You reach me via Email 
 
